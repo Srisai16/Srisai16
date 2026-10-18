@@ -3,6 +3,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "17 3 * * *"
+  push:
+    branches: [main]
+    paths-ignore:
+      - "assets/**"
+      - "README.md"
 permissions:
   contents: write
 jobs:
@@ -14,10 +19,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/generate_telemetry.py
+      - name: Refresh live repository feed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_recent.py
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/telemetry.svg
-          git diff --cached --quiet || git commit -m "chore: update profile telemetry"
+          git add assets/telemetry.svg README.md
+          git diff --cached --quiet || git commit -m "chore: update profile telemetry and live feed"
           git push
