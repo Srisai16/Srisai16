@@ -61,9 +61,9 @@ MODE       → BUILD → LEARN → SOLVE → REPEAT
 
 | Repository | Focus | Stack | Last push |
 |---|---|---|---|
-| [**Srisai16-profile-readme-starter**](https://github.com/Srisai16/Srisai16-profile-readme-starter) | — | `—` | today |
-| [**TaskFlow**](https://github.com/Srisai16/TaskFlow) | — | `JavaScript` | 20d ago |
-| [**Amazon_ML_Challenge**](https://github.com/Srisai16/Amazon_ML_Challenge) | — | `Python` | 21d ago |
+| [**Srisai16-profile-readme-starter**](https://github.com/Srisai16/Srisai16-profile-readme-starter) | — | `—` | yesterday |
+| [**TaskFlow**](https://github.com/Srisai16/TaskFlow) | — | `JavaScript` | 21d ago |
+| [**Amazon_ML_Challenge**](https://github.com/Srisai16/Amazon_ML_Challenge) | — | `Python` | 22d ago |
 | [**hydradb**](https://github.com/Srisai16/hydradb) | HydraDB - fast graph database on object storage | `fork` | 2mo ago |
 | [**rocketride-server**](https://github.com/Srisai16/rocketride-server) | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Bu... | `fork` | 3mo ago |
 | [**hyperswitch**](https://github.com/Srisai16/hyperswitch) | Open source, composable payments platform \| PCI compliant \| SaaS and Self-host option... | `fork` | 3mo ago |
