@@ -61,12 +61,12 @@ MODE       → BUILD → LEARN → SOLVE → REPEAT
 
 | Repository | Focus | Stack | Last push |
 |---|---|---|---|
-| [**Learn**](https://github.com/Srisai16/Learn) | — | `—` | today |
-| [**Peer-to-Peer_File_Sharing_System**](https://github.com/Srisai16/Peer-to-Peer_File_Sharing_System) | A hyper-performance, WebRTC-powered Peer-to-Peer file sharing application built to tran... | `TypeScript` | today |
-| [**Srisai16-profile-readme-starter**](https://github.com/Srisai16/Srisai16-profile-readme-starter) | — | `—` | 4d ago |
-| [**TaskFlow**](https://github.com/Srisai16/TaskFlow) | — | `JavaScript` | 24d ago |
-| [**Amazon_ML_Challenge**](https://github.com/Srisai16/Amazon_ML_Challenge) | — | `Python` | 25d ago |
+| [**Learn**](https://github.com/Srisai16/Learn) | — | `—` | yesterday |
+| [**Peer-to-Peer_File_Sharing_System**](https://github.com/Srisai16/Peer-to-Peer_File_Sharing_System) | A hyper-performance, WebRTC-powered Peer-to-Peer file sharing application built to tran... | `TypeScript` | yesterday |
+| [**TaskFlow**](https://github.com/Srisai16/TaskFlow) | — | `JavaScript` | 25d ago |
+| [**Amazon_ML_Challenge**](https://github.com/Srisai16/Amazon_ML_Challenge) | — | `Python` | 26d ago |
 | [**hydradb**](https://github.com/Srisai16/hydradb) | HydraDB - fast graph database on object storage | `fork` | 2mo ago |
+| [**rocketride-server**](https://github.com/Srisai16/rocketride-server) | High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Bu... | `fork` | 3mo ago |
 <!-- LIVE_FEED:END -->
 
 ## 🧬 Engineering Stack
